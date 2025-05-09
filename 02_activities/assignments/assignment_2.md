@@ -7,21 +7,37 @@
 - Data visualizations are important tools for communication and convincing; we need to be able to evaluate the ways that data are presented in visual form to be critical consumers of information 
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
+    
+    Bad example: https://dribbble.com/shots/1646404-Dashboard-data-charts/attachments/258171
+
+    Good example: https://www.businessinsider.com/mac-sales-fraction-apple-revenue-charts-2018-5
+
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Bad example: I classified this as a bad visualization primarily for three reasons: 
+      First, the use of two nearly indistinguishable colors (such as green vs. light blue) in its channel breaks the discriminability principle. This makes it difficult for readers to differentiate the groups, particularly problematic for color-blind users. 
+      Second, the x-axis labels display redundant timestamps—for example, repeating the same date (e.g., “Mar 7 Mar 7”, “Mar 15 Mar 15”, “Mar 22 Mar 22”, “Mar 30 Mar 30”). This repetition introduces extraneous cognitive load to readers and creates ambiguity. More broadly, the task of the visualization is unclear. There are no labels for the y-axis and x-axis. 
+      Third, the task of the visualization is unclear. It's not evident whether the user is supposed to compare payment frequencies, track trends, or identify outliers. 
 
-
-
-
-
+     Good example: For the good example, I also chose a line plot, so we can have a comparison. I chose this to be the example primarily for three reasons:
+     First, the visualization uses marks and channels in an effective way. It uses lines and points as marks, color, position, and tilt as channel to present the task and highlight the key milestones that relevant to the task. Colors are well-contrasted. 
+     Second, the visualization has a clear task: What portion of Apple’s revenue comes from Mac computer? This line plot effectively presents this and helps viewers evaluate trends over time with minimal effort. It also tells viewers about the highest and lowest numeric numbers. 
+     Third: the layut is simple and clear, keeping extraneous cognitive load low. 
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Bad example: 
+      First, use a high-contrast colors to ensure groups can be distinguished without confusion.
+      Second, fix the x-axis to remove duplicate dates (e.g., aggregate to weekly totals) or change the plot type to better represent the purpose of the visualization.
+      Third, State the task of the visualization clearly, with an informative title or subtitle (e.g., “Payments Received Per Day”), add labels to the x-axis and y-axis. 
+
+      Good example:
+      Add axis labels: Similar to the critique for the bad example, the visualization would benefit from explicit x-axis and y-axis labels.
+      Incorporate interactive tooltips (if present digital) to let users pinpoint each point to reveal precise numeric values.
+ 
 
 
 
